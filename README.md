@@ -10,7 +10,7 @@ Simple WPF application to shows power of great OxyPlot library.
 
 # Information
 
-![Screenshot](https://github.io/AlexanderMagdysyuk/GraphBuilder/blob/main/images/main.png?raw=true)
+![Screenshot](https://raw.githubusercontent.com/AlexanderMagdysyuk/GraphBuilder/main/images/main.png)
 
 Just simple application to open/edit/save simple 2 columns CSV files.
 
